@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "title": "Air Jordan XXXVII Low PF",
+            "price": 16295,
+            "ogPrice": 18295,
+            "image": "/products/product1.webp",
+            "id": 1,
+            "slug": "air-jordan-xxxvii-low-pf"
+        },
+        {
+            "title": "Air Jordan 1 Mid SE",
+            "price": 12295,
+            "ogPrice": 18295,
+            "image": "/products/product2.webp",
+            "id": 2,
+            "slug": "air-jordan-1-mid-se"
+        },
+        {
+            "title": "Jordan Why Not .6 PF",
+            "price": 13995,
+            "ogPrice": 16995,
+            "image": "/products/product3.webp",
+            "id": 3,
+            "slug": "jordan-why-not-6-pf"
+        },
+        {
+            "title": "Jordan Stay Loyal 2",
+            "price": 10295,
+            "ogPrice": 20295,
+            "image": "/products/product4.webp",
+            "id": 4,
+            "slug": "jordan-stay-loyal-2"
+        },
+        {
+            "title": "Jordan Delta 3 Low",
+            "price": 12795,
+            "ogPrice": 24995,
+            "image": "/products/product5.webp",
+            "id": 5,
+            "slug": "jordan-delta-3-low"
+        },
+        {
+            "title": "Air Jordan 13 Retro",
+            "price": 19295,
+            "ogPrice": 31995,
+            "image": "/products/product6.webp",
+            "id": 6,
+            "slug": "air-jordan-13-retro"
+        },
+        {
+            "title": "Air Jordan 6 Retro",
+            "price": 18395,
+            "ogPrice": 22995,
+            "image": "/products/product7.webp",
+            "id": 7,
+            "slug": "air-jordan-6-retro"
+        },
+        {
+            "title": "Air Jordan 1 Retro High OG",
+            "price": 16995,
+            "ogPrice": 35995,
+            "image": "/products/product8.webp",
+            "id": 8,
+            "slug": "air-jordan-1-retro-high-og"
+        },
+        {
+            "title": "Air Jordan 1 Mid SE Craft",
+            "price": 12295,
+            "ogPrice": 18295,
+            "image": "/products/product9.webp",
+            "id": 9,
+            "slug": "air-jordan-1-mid-se-craft"
+        }
+    ]
+}
